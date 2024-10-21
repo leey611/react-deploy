@@ -11,6 +11,7 @@ function App() {
   return (
     <>
       <div>
+        hello
         <Greeting name="lily"/>
         <Greeting name={my_name} />
         <StyledButton />
